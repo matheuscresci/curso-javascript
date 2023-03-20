@@ -1,0 +1,44 @@
+body {
+  background-color: rgb(70, 142, 236);
+  font: normal 15pt sans-serif;
+}
+
+header {
+  color: #fff;
+  text-align: center;
+}
+
+section {
+  background-color: #fff;
+  border-radius: 10px;
+  padding: 15px;
+  width: 500px;
+  margin: auto;
+  box-shadow: 2px 2px 3px #00003759;
+}
+
+footer {
+  color: #fff;
+  text-align: center;
+  font-style: italic;
+}
+
+input.cButton {
+  background-color: rgb(112, 195, 243);
+  border-style: none;
+  color: #ffffff;
+  font-family: sans-serif;
+  font-weight: 700;
+  text-transform: uppercase;
+  box-shadow: 2px 2px 2px #00003782;
+  min-width: 150px;
+  min-height: 30px;
+  margin-bottom: 15px;
+}
+
+input {
+  background-color: #a1ceec;
+  border-style: none;
+  min-height: 20px;
+  min-width: 250px;
+}
